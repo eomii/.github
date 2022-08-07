@@ -1,3 +1,1 @@
-## eomii
-
-Bleeding Edge Software Infrastructure
+![Alt text](eomii_header.png?raw=true "eomii")
