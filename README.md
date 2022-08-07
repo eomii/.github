@@ -1,1 +1,3 @@
-# .github
+# eomii
+
+(/*.*)/ Bleeding edge software infrastructure \(*.*\)
